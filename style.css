@@ -1,0 +1,39 @@
+body{ 
+    background-color: rgb(14, 99, 128);}
+
+
+    body {
+        background: #d5cee6
+    }
+    
+    #banner {
+        width: 100%;
+    }
+    
+    h1 {
+        text-align: center
+    }
+    
+    p {
+        text-align: center;
+    }
+    
+    #missao {
+        font-size: 20px
+    }
+    
+    em strong {
+        color: #1500ff;
+
+    }
+    ul{
+        display:inline-block;
+        vertical-align: top;
+        width: 20%;
+        margin-right: 15%;
+        
+    }
+
+.imagemhttps://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&w=600
+
+    width:50%
